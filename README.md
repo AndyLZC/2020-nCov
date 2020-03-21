@@ -1,24 +1,13 @@
-# movie
+### 新冠肺炎疫情地图(Vue3.0版)
 
-## Project setup
+#### 效果图
+![](https://user-gold-cdn.xitu.io/2020/3/21/170fbeae60984331?w=1080&h=1929&f=jpeg&s=98170)
+![](https://user-gold-cdn.xitu.io/2020/3/21/170fbeb12d529087?w=1080&h=1929&f=jpeg&s=73156)
+![](https://user-gold-cdn.xitu.io/2020/3/21/170fbeb32b76526a?w=1080&h=1929&f=jpeg&s=88959)
+![](https://user-gold-cdn.xitu.io/2020/3/21/170fbeb49088bb53?w=1080&h=1929&f=jpeg&s=108857)
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
