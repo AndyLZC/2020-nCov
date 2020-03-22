@@ -36,5 +36,6 @@
 npm install
 npm run serve
 ```
+### 效果展示
 ![2020-nCov](https://user-gold-cdn.xitu.io/2020/3/22/1710098d37dd2dca?w=4320&h=1929&f=png&s=2740268)
 
