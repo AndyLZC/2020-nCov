@@ -7,12 +7,14 @@
 
 ### 技术栈
 
-- Vue3.0 - Composition API、Vue-CLI3、Vue Router
-- UI库 vant-ui
-- 地图 Echarts
-- ES 6 / 7 （JavaScript 语言的下一代标准）
+- Vue3.0 - Composition API（核心库)
+- Vue-cli （脚手架工具）
+- Vue Router (路由）
+- Vant (移动端UI库）
+- Echarts （地图可视化)
+- ES 6/7 （JavaScript 语言的下一代标准）
 - Sass（CSS 预处理器）
-- postcss-pxtorem（自动处理 rem）
+- postcss-pxtorem（插件 px自动转换rem）
 
 #### 接口数据来源
 [天行数据](https://www.tianapi.com/apiview/169)
