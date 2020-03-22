@@ -114,18 +114,18 @@ export default {
   }
 
   .map-tab {
-    font-size: 13px;
-    margin: 15px 20px;
+    font-size: 12px;
+    margin: 10px 15px;
     padding: 5px 0;
     .currentConfirmed, .confirmed {
       background-color: #e1e1e1;
-      padding: 5px 10px;
+      padding: 3px 8px;
     }
     .currentConfirmed {
-      border-radius: 15px 0 0 15px;
+      border-radius: 10px 0 0 10px;
     }
     .confirmed {
-      border-radius: 0 15px 15px 0;
+      border-radius: 0 10px 10px 0;
     }
     .choose {
       background-color: #b6d1e4;

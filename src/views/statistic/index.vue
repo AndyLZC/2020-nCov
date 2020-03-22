@@ -108,7 +108,7 @@ export default {
       display: flex;
       justify-content: space-between;
       margin: 5px 18px 0 22px;
-      font-size: 13px;
+      font-size: 12px;
       color: #666666;
       font-weight: 700;
       font-style: italic;
@@ -139,7 +139,7 @@ export default {
     }
 
     .count {
-      font-size: 22px;
+      font-size: 16px;
       line-height: 28px;
     }
     .type {

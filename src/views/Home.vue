@@ -97,7 +97,7 @@ export default {
     width: 100%;
     background-size: 100%;
     font-weight: 700;
-    font-size: 48px;
+    font-size: 40px;
     text-align: center;
     line-height: 200px;
     font-style: italic;

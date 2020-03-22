@@ -35,7 +35,7 @@ export default {
   }
   .box {
     margin: auto;
-    width: 300px;
+    width: 250px;
     height: 250px;
     border: 1px solid #999;
     overflow: hidden;
@@ -58,7 +58,7 @@ export default {
       background-size: 100%;
 
       .rumour-text {
-        font-size: 36px;
+        font-size: 32px;
         margin-bottom: 15px;
       }
 

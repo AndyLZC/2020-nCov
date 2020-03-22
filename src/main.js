@@ -6,6 +6,7 @@ import {
 import App from './App.vue';
 import router from './router';
 import '@/style/index.scss';
+import '@/util/rem'
 
 Vue.use(VueCompositionApi)
 Vue.use(Tab);
@@ -15,6 +16,7 @@ Vue.use(SwipeItem);
 Vue.use(Collapse);
 Vue.use(CollapseItem);
 Vue.use(Popup);
+
 
 Vue.config.productionTip = false;
 

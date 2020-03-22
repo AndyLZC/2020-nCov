@@ -48,12 +48,12 @@ export default {
     text-align: left;
 
     .news-title {
-      font-size: 18px;
+      font-size: 16px;
       font-weight: 700;
       color: #444444;
       padding: 5px;
       .newest {
-        margin-right: 5px;
+        margin-right: 2px;
         display: inline-block;
         background-color: #e05c1f;
         color: #fff;
@@ -65,7 +65,7 @@ export default {
       }
     }
     .news-content {
-      font-size: 15px;
+      font-size: 14px;
       color: #aaa;
       line-height: 20px;
       @include text-ellipsis-multi(4);
