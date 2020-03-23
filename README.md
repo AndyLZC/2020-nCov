@@ -1,6 +1,9 @@
 ### 新冠肺炎疫情地图(Vue3.0版)
 `Vue3.0 - Composition API` 开发的新冠肺炎疫情地图
 
+### 体验地址
+[疫情地图](http://134.175.177.48/2020-nCov) （ps: 10块钱的服务器，首次加载超级慢）
+
 ### Vue Composition API
 * 更好的逻辑复用以及代码整理
 * 更好的 `TypeScript` 支持
