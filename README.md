@@ -2,7 +2,7 @@
 `Vue3.0 - Composition API` 开发的新冠肺炎疫情地图
 
 ### 体验地址
-[疫情地图](http://andylzc.cn/2020-nCov) `chrome`手机模式观看（ps: ~~10块钱买来的服务器，首次加载完成大概要13秒左右，超级慢哈~~）性能优化升级中
+[疫情地图](https://andylzc.cn/2020-nCov) `chrome`手机模式观看（ps: ~~10块钱买来的服务器，首次加载完成大概要13秒左右，超级慢哈~~）性能优化升级中
 
 ### Vue Composition API
 * 更好的逻辑复用以及代码整理
